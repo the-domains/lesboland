@@ -1,6 +1,6 @@
 name: Lesboland
 favicon: null
-layout_spectrum: 0.13430833769962192
+layout_spectrum: 0.76727
 typography_spectrum: 0.8323417669162154
 title: Best Seller
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.06270632101222873
-  lightness: 0.6805088059045374
-  saturation: 0.3640221410896629
-  rhythmicContrast: 0.35372439539059997
+    - '#d2232a'
+    - '#6bcde7'
+    - '#fff200'
+    - '#ffffff'
+    - '#eba0a3'
+  brandStrength: 0.1875
+  lightness: 0.875
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
