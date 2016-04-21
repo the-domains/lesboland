@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Lesboland]]></title>
-        <description><![CDATA[Lesboland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Best Seller]]></title>
+        <description><![CDATA[Best Seller]]></description>
+        <link>https://thegrid.ai/lesboland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 17:31:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 17:37:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lesboland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45379830-3767-411c-8add-7eb5cfae06d8.png">]]></description>
-            <link>undefined03586f4f-50c6-4ead-aa39-11083342c5a3/index.html</link>
+            <link>https://thegrid.ai/lesboland/03586f4f-50c6-4ead-aa39-11083342c5a3/index.html</link>
             <guid isPermaLink="false">03586f4f-50c6-4ead-aa39-11083342c5a3</guid>
-            <pubDate>Thu, 21 Apr 2016 17:31:02 GMT</pubDate>
+            <pubDate>Thu, 21 Apr 2016 17:36:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
